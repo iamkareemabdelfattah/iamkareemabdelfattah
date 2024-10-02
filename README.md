@@ -15,7 +15,7 @@ Motatawera Academy for Management Information System
 
 ## Contact
 
-- WhatsUpp: 01158820073
+- WhatsApp: 01158820073
 - Email: imkareemabdelfattah@gmail.com
 - Linkedin: https://www.linkedin.com/in/imkareemabelfattah/
 
