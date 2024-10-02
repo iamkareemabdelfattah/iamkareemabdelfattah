@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a front-end developer skilled in React, Redux, and Bootstrap, with experience in building platforms for marketplaces and digital products. 
+I am a front-end developer skilled in React, Redux, and Bootstrap .
 
 ## Skills
 
