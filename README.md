@@ -11,7 +11,7 @@ I am a Front-End developer skilled in React, Redux, and Bootstrap .
 ## Education
 
 Motatawera Academy for Management Information System
-3 - Graduation Year: 2022
+3 - Graduation : 2022
 
 ## Contact
 
