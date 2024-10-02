@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a front-end developer skilled in React, Redux, and Bootstrap .
+I am a Front-End developer skilled in React, Redux, and Bootstrap .
 
 ## Skills
 
@@ -21,4 +21,4 @@ Motatawera Academy for Management Information System
 
 ## Looking for Opportunities
 
-I'm currently seeking for Front End Develope position. Feel free to reach out if you'd like to collaborate or have any opportunities!
+I'm currently seeking for Front-End position. Feel free to reach out if you'd like to collaborate or have any opportunities!
