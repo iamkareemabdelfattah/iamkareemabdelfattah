@@ -1,16 +1,24 @@
-## Hi there 👋
+# Kareem Abdel Fattah Front End Developer
 
-<!--
-**iamkareemabdelfattah/iamkareemabdelfattah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a front-end developer skilled in React, Redux, and Bootstrap, with experience in building platforms for marketplaces and digital products. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- React | Redux | Bootstrap | Cmd | Github | Figma 
+
+## Education
+
+Manmotatawera Academy for Management Information System
+3 - Expected Graduation: 2022
+
+## Contact
+
+- WhatsUpp: 01158820073
+- Email: imkareemabdelfattah@gmail.com
+- Linkedin: https://www.linkedin.com/in/imkareemabelfattah/
+
+## Looking for Opportunities
+
+I'm currently seeking for Front End Develope position. Feel free to reach out if you'd like to collaborate or have any opportunities!
