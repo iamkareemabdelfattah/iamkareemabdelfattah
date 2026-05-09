@@ -1,29 +1,32 @@
-🚀 Kareem Abdel Fattah | Front-End Developer & SAP Specialist
+🚀 Kareem Abdel Fattah | SAP Production & Logistics Coordinator & Front-End Developer
 About Me
-I am a detail-oriented professional with a unique dual expertise in Front-End Development and SAP System Integration. Currently, I work at Eastern Company S.A.E., where I manage production lifecycles and complex material workflows for high-speed manufacturing lines. I am passionate about bridging the gap between industrial efficiency and modern web experiences by building clean, responsive, and user-centric applications.
+I am an analytical professional with a unique dual expertise in SAP System Integration and Front-End Development. Currently, I serve as an SAP Production & Logistics Coordinator at Eastern Company S.A.E., where I optimize production workflows and manage complex material movements for high-speed manufacturing environments. I am passionate about bridging the gap between industrial efficiency and modern web experiences by building clean, responsive, and data-driven applications.
 
 🚀 Technical Toolbox 
-Front-End DevelopmentLanguages: HTML5, CSS3, JavaScript (ES6).
-Frameworks & Libraries: React.js, Redux, Bootstrap 5, SASS. 
-Tools: Git, GitHub, Figma, Command Line. 
-SAP & Data AnalysisModules: SAP Production Planning (PP) and Materials Management (MM). 
-Data Science: Power BI (Dashboards) and Advanced Excel (VLOOKUP, Pivot Tables, Data Analysis).
-Logistics: Inventory Reconciliation, Warehouse Management, and Movement Tracking.  
+Front-End Development: HTML5, CSS3 (SASS/Bootstrap 5), JavaScript (ES6), and React.js.  SAP Modules: Expert in Production Planning (PP) and Materials Management (MM) integration.  Data Analysis: Building insightful dashboards with Power BI and advanced Excel (VLOOKUP, Pivot Tables).  Logistics & Inventory: Stock Reconciliation, Warehouse Management, and movement tracking (MIGO, MB51, MB52).  
 
-💼 Professional Experience SAP Production & Material Controller | Eastern Company S.A.E (Nov 2024 – May 2026).
-Managing production orders and capacity allocation for 17+ machines.
-Overseeing complex inventory transactions (MIGO, MB52) and stock integrity.
-Front-End Web Development | Route Academy (Diploma, 2021).
-Specialized training in building responsive single-page applications (SPAs).  
+💼 Professional Experience 
+SAP Production & Logistics Coordinator | Eastern Company S.A.E (2024 – Present):  
+Managing production lifecycles (MD11, CO11N, CO02) and capacity allocation for 17+ high-speed machines.  Overseeing complex inventory transactions and movement types (101, 261, 313) to ensure 100% stock integrity. 
+Production Specialist | Trans Business for Distribution:
+Controlled shop floor requirements and production targets across high-speed manufacturing lines.
+Data Analysis Specialist | Eastern Company S.A.E:
+Developing Power BI dashboards and tracking systems to identify production bottlenecks and drive efficiency.
 
 🎓 Education & Certifications
 Bachelor of Management Information Systems (MIS) | El Motatawera Academy (2022).  
 
 Front-End Web Development Diploma | Route Academy (2021).
 
-📊 Professional HighlightsSAP Specialist: Managing production lifecycles and material master records in a large-scale manufacturing environment. 
-Inventory Accuracy: Maintaining 100% inventory integrity through precise SAP transactions (MIGO, MB52).
-Web Projects: Developing responsive SPAs with a focus on clean code and efficient grid layouts.
+📊 Professional Highlights
+AP Production & Logistics:
+Managing production lifecycles (MD11, CO11N, CO02) and material master records in a large-scale manufacturing environment.
+Inventory & Logistics Excellence: 
+Maintaining 100% inventory integrity through precise SAP transactions (MIGO, MB51, MB52) and movement tracking.
+Data-Driven Insights:
+Developing Power BI dashboards and advanced Excel models to optimize production workflows and identify operational bottlenecks. 
+Web Development:
+Crafting responsive Single Page Applications (SPAs) using React.js and modern CSS frameworks with a focus on clean, scalable code. 
 
 📫 Connect with Me
 Linkedin: https://www.linkedin.com/in/kareem-abdelfattah-sap 
@@ -33,4 +36,4 @@ WhatsApp: 01158820073
 
 
 🎯 Looking for Opportunities
-I am actively seeking a Front-End Developer position where I can apply my problem-solving skills and technical background to create impactful digital products. I am always open to collaborating on open-source projects or discussing new tech opportunities.
+I am an analytical professional seeking a Front-End Developer or SAP Specialist position where I can leverage my unique blend of technical expertise and industrial experience. I am passionate about using data-driven solutions and modern web technologies to solve complex problems and create impactful digital products. I am always open to discussing new opportunities or collaborating on innovative tech projects.
